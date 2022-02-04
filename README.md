@@ -1,4 +1,4 @@
-🤫🤫🤫
+Hi, welcome to my GitHub!
 <!--
 **sssanchezzz/sssanchezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I'm Sasha Borynets - front-end web developer based in Kiev.
+I'm a third year student of Igor Sikorsky Kiev Polytechnic Institute majoring in software engineering.
+My last finished course is 
 -->
